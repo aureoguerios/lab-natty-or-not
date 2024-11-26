@@ -19,9 +19,9 @@ Usando a IA Generativa "ElevenLabs", a partir do texto da introdução do e-book
 ## 🚀 Resultados
 Como resultado obtivemos em poucos minutos, com poucas iterações de refinamento em cada fase, um texto suscinto e qualificado apresentando em sete páginas a vida e obra daquele que é considerado o principal e mais completo autor brasileiro, e um vídeo fazendo a apresentação do conteúdo do ebook. 
 
-[LINK PARA O VÍDEO AQUI]()
+[Vídeo]()
 
-[]([Machado de Assis - Vida e Obra do Gênio da Literatura Brasileira.pdf](https://github.com/user-attachments/files/17911324/Machado.de.Assis.-.Vida.e.Obra.do.Genio.da.Literatura.Brasileira.pdf)
+[e-book]([Machado de Assis - Vida e Obra do Gênio da Literatura Brasileira.pdf](https://github.com/user-attachments/files/17911324/Machado.de.Assis.-.Vida.e.Obra.do.Genio.da.Literatura.Brasileira.pdf)
 
 ## 💭 Reflexão
 A experiência de uso destas várias IA Generativas nesta atividade foi bastante interessante e, por um lado demonstrou a facilidade e simplicidade para obtenção de resultados qualificados e, por outro lado, demonstrou o quão importante será a qualificação do prompt de demanda às IA em virtude do infinito universo de possibilidade de resultados para uma mesma demanda.
