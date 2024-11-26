@@ -19,7 +19,7 @@ Usando a IA Generativa "ElevenLabs", a partir do texto da introdução do e-book
 ## 🚀 Resultados
 Como resultado obtivemos em poucos minutos, com poucas iterações de refinamento em cada fase, um texto suscinto e qualificado apresentando em sete páginas a vida e obra daquele que é considerado o principal e mais completo autor brasileiro, e um vídeo fazendo a apresentação do conteúdo do ebook. 
 
-[Vídeo]()
+[Vídeo](https://github.com/user-attachments/assets/ae953bef-7e21-43d0-a2e5-c695e994e42e)
 
 [e-book]([Machado de Assis - Vida e Obra do Gênio da Literatura Brasileira.pdf](https://github.com/user-attachments/files/17911324/Machado.de.Assis.-.Vida.e.Obra.do.Genio.da.Literatura.Brasileira.pdf)
 
